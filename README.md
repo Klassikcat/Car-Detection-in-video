@@ -1,5 +1,9 @@
 # Car Detection and Classification Pipeline
 
+## Pipeline
+
+## Overview
+
 This repository contains code for a car detection and classification pipeline.
 The pipeline is divided into four parts:
 
